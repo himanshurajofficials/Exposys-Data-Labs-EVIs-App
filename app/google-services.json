@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1065183128399",
+    "firebase_url": "https://exfosysdatalab1-default-rtdb.firebaseio.com",
+    "project_id": "exfosysdatalab1",
+    "storage_bucket": "exfosysdatalab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065183128399:android:291e64aa5415974c8df33a",
+        "android_client_info": {
+          "package_name": "com.example.evi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065183128399-l8rnddb99japrrele9tpto0v3883tan7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8-coCR1bhdRjLK0xifnqRcEsAVve1vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065183128399-l8rnddb99japrrele9tpto0v3883tan7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065183128399:android:207eca183b9b55678df33a",
+        "android_client_info": {
+          "package_name": "com.example.onlineshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065183128399-l8rnddb99japrrele9tpto0v3883tan7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8-coCR1bhdRjLK0xifnqRcEsAVve1vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065183128399-l8rnddb99japrrele9tpto0v3883tan7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
